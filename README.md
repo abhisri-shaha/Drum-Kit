@@ -3,10 +3,6 @@
 ## Overview
 Welcome to the Drum Kit project! This project is a simple interactive web application that allows users to play different drum sounds by either clicking on the buttons or pressing the corresponding keys on their keyboard.
 
-## Demo
-
-Check out the live demo of the Drum Kit project [here](https://your-github-username.github.io/drum-kit).
-
 ## Technologies Used
 
 - **HTML**: To create the structure of the web page, including the buttons and layout.
