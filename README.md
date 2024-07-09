@@ -63,8 +63,8 @@ To get a local copy up and running, follow these simple steps:
 
 Once you have the project open in your browser, you can start playing the drum sounds by:
 
-- **Clicking** on any of the drum buttons (W, A, S, D, J, K, L).
-- **Pressing** the corresponding keys (W, A, S, D, J, K, L) on your keyboard.
+- **Clicking** on any of the drum buttons (w, a, s, d, j, k, l).
+- **Pressing** the corresponding keys (w, a, s, d, j, k, l) on your keyboard.
   
 ## Deployment
 This resume is deployed using GitHub Pages. To deploy your version:
